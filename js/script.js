@@ -55,4 +55,4 @@ buttonNext.addEventListener('click', () => {
   renderPokemon(searchPokemon);
 });
 
-renderPokemon(searchPokemon);
+renderPokemon(searchPokemon)
