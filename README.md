@@ -1,6 +1,5 @@
-<h1 align="center">
-  Pokédex
-</h1>
+<h1 align="center">Pokédex</h1>
+<h5 align="center">Data de criação do projeto: 4 de Agosto de 2022</h5>
 
 <h3 align="center">   
 Esse é um projeto simples, onde eu criei uma Pokédex com base no vídeo do Manual do Dev.
