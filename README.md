@@ -10,7 +10,6 @@ Esse é um projeto simples, onde eu criei uma Pokédex com base no vídeo do Man
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [VS Code](https://code.visualstudio.com/).
 
 <div align="center">
   <h2><a href="https://pokedex-ihyperbr.vercel.app/">LINK DO PROJETO</a></h2>
